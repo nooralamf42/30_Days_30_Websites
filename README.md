@@ -54,7 +54,7 @@ This challenge is inspired by the need to constantly learn and improve. I hope i
 
 ## 📧 Contact
 
-For any queries, reach out to me on [Instagram](https://instagram.com/nooralamfiroz) or via email at youremail@example.com.
+For any queries, reach out to me on [Instagram](https://instagram.com/nooralamfiroz) or via email at nooralalmf42@gmail.com.
 
 ---
 
