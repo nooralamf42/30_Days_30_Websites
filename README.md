@@ -10,7 +10,9 @@ Each day brings a new and exciting website. Here’s a glimpse of what I’ve cr
 
 1. **Day 1:** [Quotes Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/QuotesWebsite)
 
-…and 29 more to go! 🚀
+2. **Day 2:** [Coin Toss Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-2-CoinTossWeb)
+
+…and 28 more to go! 🚀
 
 ## 🎥 Watch on Instagram Reels
 
@@ -38,7 +40,8 @@ Got ideas or suggestions? Feel free to contribute by opening issues or submittin
 
 Stay updated with my daily progress:
 
-- [Day 1](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/QuotesWebsite)
+- [Day 1](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-1-QuotesWebsite)
+- [Day 2](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-2-CoinTossWeb)
 
 ## 📚 Resources
 
