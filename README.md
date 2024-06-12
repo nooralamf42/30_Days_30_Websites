@@ -8,11 +8,11 @@ Welcome to my 30 Websites in 30 Days challenge! 🎉 I'm creating and sharing a 
 
 Each day brings a new and exciting website. Here’s a glimpse of what I’ve created so far:
 
-1. **Day 1:** [Quotes Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/QuotesWebsite)
-
+1. **Day 1:** [Quotes Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-1-QuotesWebsite)
 2. **Day 2:** [Coin Toss Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-2-CoinTossWeb)
+2. **Day 3:** [Coin Toss Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-2-NoNoNo)
 
-…and 28 more to go! 🚀
+…and 27 more to go! 🚀
 
 ## 🎥 Watch on Instagram Reels
 
@@ -42,6 +42,7 @@ Stay updated with my daily progress:
 
 - [Day 1](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-1-QuotesWebsite)
 - [Day 2](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-2-CoinTossWeb)
+- [Day 3](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-3-NoNoNo)
 
 ## 📚 Resources
 
