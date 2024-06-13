@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio,line-clamp,container-queries"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap"
+      rel="stylesheet"
+    />
+    <title>Budget Web App</title>
+  </head>
+  <body
+    class="bg-black text-[#d36feb]"
+    style="
+      font-family: 'Nanum Pen Script', cursive;
+      font-weight: 400;
+      font-style: normal;
+    "
+  >
+    <section class="flex justify-center mt-20">
+      <div class="w-[450px] border-2 border-[#d36feb] rounded-3xl p-8">
+        <h1 class="text-4xl">₹<span class="text-5xl" id="balance">0</span> <span class="text-xl">Main Balance</span></h1>
+
+        <div
+          class="flex justify-around items-center border-2 border-[#d36feb] rounded-3xl mt-4 p-4"
+        >
+          <div>
+            <h1 class="text-center text-xl">income</h1>
+            <p 
+              class="mt-2 text-2xl py-2 px-8 border-2 border-[#d36feb] rounded-xl"
+            >
+              ₹<span id="income">0</span>
+            </p>
+          </div>
+          <div>
+            <h1 class="text-center text-xl">expense</h1>
+            <p 
+              class="mt-2 text-2xl py-2 px-8 border-2 border-[#d36feb] rounded-xl"
+            >
+              ₹<span id="expense">0</span>
+            </p>
+          </div>
+        </div>
+        <form id="form">
+          <input
+            class="text-xl px-4 w-full text-2xl bg-black text-[#d36feb] border-2 border-[#d36feb] rounded-xl mt-5 focus:border-[#d36feb]"
+            type="number"
+            placeholder="amount"
+            id="amount"
+            required
+          />
+
+          <input
+            class="text-xl px-4 w-full mt-5 text-2xl bg-black text-[#d36feb] border-2 border-[#d36feb] rounded-xl focus:border-[#d36feb]"
+            type="text"
+            placeholder="details"
+            id="details"
+            required
+          />
+
+          <div class="text-center">
+            <button onclick="clickHandler1()"
+              class="border-2 text-red-400 border-[#d36feb] rounded-xl w-[48%] text-2xl mt-5 py-2 mr-2"
+            >
+              expense
+            </button>
+            <button onclick="clickHandler2()"
+              class="border-2 text-green-400 border-[#d36feb] rounded-xl w-[48%] text-2xl mt-5 py-2"
+            >
+              income
+            </button>
+          </div>
+        </form>
+        <hr class="my-8 border border-[#d36feb]" />
+
+        <div>
+          <h1 class="text-3xl">transactions</h1>
+
+          <div id="transactions" class="mt-6 space-y-3">
+            <!-- <h2 class="border-2 text-xl border-[#d36feb] rounded-xl py-2 px-4">
+              income ₹5000 by freelance
+            </h2> -->
+          </div>
+        </div>
+      </div>
+    </section>
+    <script src="app.js"></script>
+  </body>
+</html>
