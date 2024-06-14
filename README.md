@@ -13,8 +13,9 @@ Each day brings a new and exciting website. Here’s a glimpse of what I’ve cr
 2. **Day 2:** [Coin Toss Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-2-CoinTossWeb)
 3. **Day 3:** [No No No Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-3-NoNoNo)
 4. **Day 4:** [Budget Web App](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-4-BudgetWebApp)
+5. **Day 5:** [Budget Web App](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-5-DiceGame)
 
-…and 26 more to go! 🚀
+…and 25 more to go! 🚀
 
 ## 🎥 Watch on Instagram Reels
 
@@ -46,6 +47,7 @@ Stay updated with my daily progress:
 - [Day 2](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-2-CoinTossWeb)
 - [Day 3](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-3-NoNoNo)
 - [Day 4](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-4-BudgetWebApp)
+- [Day 5](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-5-DiceGame)
 
 ## 📚 Resources
 
