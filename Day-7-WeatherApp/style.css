@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+.main{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+.card{
+    padding: 1.2rem;
+    border-radius: 18px;
+    width: 400px;
+    box-shadow: #eee 10px 12px 12px 5px;
+    border: 1px solid rgba(128, 128, 128, 0.23);
+}
+
+
+.card input{
+    width: 100%;
+    font-size: 1.3rem;
+    padding: .5rem;
+    border-radius: 12px;
+    border: 1.4px solid rgba(128, 128, 128, 0.23);
+}
+
+.card button{
+    width: 100%;
+    font-size: 1.3rem;
+    padding: .5rem 0;
+    margin: 0.5rem 0;
+    background-color: black;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+.card button:hover{
+    background-color: rgb(56, 56, 56);
+}
+
+.weatherCard{
+    display: none;
+    text-align: center;
+    padding: .9rem;
+    margin: 1rem;
+    box-shadow: #dbdbdb 10px 12px 12px 5px;
+    border-radius: 12px;
+    margin-bottom: 50px;
+}
+
+#location{
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+#temperature{
+    font-size: 1.8rem;
+    font-weight: 600;
+    margin: 8px 0;
+}
+
+#humidity{
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+#wind{
+    font-size: 1rem;
+    font-weight: 400;
+}
