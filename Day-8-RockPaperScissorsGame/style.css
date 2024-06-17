@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Nanum Pen Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 20px;
+}
+
+.card{
+    width: 450px;
+    box-shadow: #eee 10px 12px 12px 5px;
+    border-radius: 18px;
+    border: 1px solid gray;
+    overflow: hidden;
+}
+
+.card-top{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-top img{
+    width: 45%;
+}
+
+
+h1{
+    text-align: center;
+    font-size: 4rem;
+}
+
+.card-bottom {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.card-bottom img{
+    cursor: pointer;
+    width: 25%;
+    rotate: -90deg;
+    transform: scaleY(-1);
+}
+
+.card-bottom img:hover{
+    scale: 105%;
+}
+
+.animate-left{
+    animation: shakeLeft 1s infinite;
+}
+
+@keyframes shakeLeft {
+
+    0%{
+        rotate: 0;
+    }
+    50%{
+        rotate: 12deg
+    }
+    100%{
+        rotate: 0;
+    }
+
+}
+
+.right-image{
+    transform: scaleX(-1);
+}
+
+.animate-right{
+    animation: shakeRight 1s infinite;
+}
+
+@keyframes shakeRight {
+
+    0%{
+        rotate: 0;
+    }
+    50%{
+        rotate: -12deg
+    }
+    100%{
+        rotate: 0;
+    }
+
+}
+
+

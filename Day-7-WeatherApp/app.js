@@ -9,9 +9,9 @@ const weather = document.getElementById("weather")
 const apiKey = "0eb5d5d0b6722c6268094c8ff160c359";
 
 function getWeatherData(cityName) {
-  const response = fetch(
-    `https://api.openweathermap.org/data/2.5/weather?q=${cityName}&appid=${apiKey}&units=metric`
+  const response = fetch(`https://api.openweathermap.org/data/2.5/weather?q=${cityName}&appid=${apiKey}&units=metric`
   ).then((res) => res.json());
+  console.log(response)
   return response;
 }
 
