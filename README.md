@@ -13,11 +13,12 @@ Each day brings a new and exciting website. Here’s a glimpse of what I’ve cr
 2. **Day 2:** [Coin Toss Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-2-CoinTossWeb)
 3. **Day 3:** [No No No Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-3-NoNoNo)
 4. **Day 4:** [Budget Web App](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-4-BudgetWebApp)
-5. **Day 5:** [Budget Web App](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-5-DiceGame)
-6. **Day 6:** [Budget Web App](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-6-TicTacToe)
-7. **Day 7:** [Budget Web App](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-7-WeatherApp)
+5. **Day 5:** [Dice Game](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-5-DiceGame)
+6. **Day 6:** [Tic Tac Toe Game](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-6-TicTacToe)
+7. **Day 7:** [Weather App](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-7-WeatherApp)
+8. **Day 8:** [RockPaper Scissors Game](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-8-RockPaperScissorsGame)
 
-…and 23 more to go! 🚀
+…and 22 more to go! 🚀
 
 ## 🎥 Watch on Instagram Reels
 
@@ -52,6 +53,7 @@ Stay updated with my daily progress:
 - [Day 5](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-5-DiceGame)
 - [Day 6](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-6-TicTacToe)
 - [Day 7](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-7-WeatherApp)
+- [Day 8](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-8-RockPaperScissorsGame)
 
 ## 📚 Resources
 
