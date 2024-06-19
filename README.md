@@ -17,8 +17,9 @@ Each day brings a new and exciting website. Here’s a glimpse of what I’ve cr
 6. **Day 6:** [Tic Tac Toe Game](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-6-TicTacToe)
 7. **Day 7:** [Weather App](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-7-WeatherApp)
 8. **Day 8:** [RockPaper Scissors Game](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-8-RockPaperScissorsGame)
+9. **Day 9:** [RockPaper Scissors Game](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-9-ProfLinks)
 
-…and 22 more to go! 🚀
+…and 21 more to go! 🚀
 
 ## 🎥 Watch on Instagram Reels
 
@@ -54,6 +55,8 @@ Stay updated with my daily progress:
 - [Day 6](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-6-TicTacToe)
 - [Day 7](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-7-WeatherApp)
 - [Day 8](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-8-RockPaperScissorsGame)
+- [Day 9](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-9-ProfLinks)
+
 
 ## 📚 Resources
 
