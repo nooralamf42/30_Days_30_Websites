@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Sticky Notes</title>
+</head>
+<body>
+    <section class="main">
+        <div class="mainCard">
+            <!-- <div class="noteCard card" id=''>
+                <h1 class="note">
+                 </h1>
+                <button id="closeButton" onclick="removeNote()">
+                    X
+                </button>
+            </div> -->
+        </div>
+        <div class="addCard card">
+            <button id="addButton" onclick="addNote()">
+                +
+            </button>
+        </div>
+        <div class="addCardForm card hideElement">
+            <form onsubmit="submitNote(event)">
+                <textarea required placeholder="type your note here" name="" id="noteText"  rows="4" maxlength="80">
+                </textarea>
+                <button type="submit" class="submitButton">submit</button>
+            </form>
+        </div>
+    </section>
+    <script src="app.js"></script>
+</body>
+</html>
