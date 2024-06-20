@@ -1,0 +1,101 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 150px 20px 50px;
+}
+
+.card{
+    max-width: 600px;
+    width: 90%;
+    padding: 30px;
+    border-radius: 1rem;
+    border: 0.5px solid gray;
+}
+
+.addForm{
+    display: flex;
+    justify-content: space-between;
+    gap: 8px;
+    margin-bottom: 50px;
+}
+
+.addForm input{
+    width: 100%;
+    color: white;
+    padding: 0 10px;
+}
+
+.addForm button{
+    padding: 8px 12px;
+    color: white;
+}
+
+.addForm button, .editButton, .addForm input,.todo{
+    border-radius: 1rem;
+    border: 0.5px solid gray;
+    font-size: 1.5rem;
+}
+
+.todo{
+    padding: 8px 12px;
+    margin-top: 1rem;
+}
+
+.editForm{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.editForm input{
+    border: none;
+    font-size: 1.5rem;
+    color: white;
+}
+
+.editButton{
+    padding: 5px;
+    height: 25px;
+    width: 25px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.editButton img{
+   width: 100%;
+}
+
+.editFormButtons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.7rem;
+}
+
+button:hover{
+    cursor: pointer;
+    scale: 105%;
+    /* text-decoration: line-through; */
+}
+
+.leftEditForm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.7rem;
+}
+
+.editInput{
+    width: 100%;
+}
+

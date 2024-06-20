@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todo Web App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <section class="main">
+        <div class="card">
+            <form class="addForm" onsubmit="addTodo(event)">
+                <input id="todoText" required type="text" placeholder="add todo here" maxlength="35">
+                <button type="submit">add</button>
+            </form>
+            <div class="todos">
+                <!-- <div class="todo">
+                    <form action="" class="editForm">
+                        <div>
+                            <input type="checkbox" name="" id="">
+                            <input type="text" disabled value="complete this video">
+                        </div>
+                        <div class="editFormButtons">
+                            <button type="button" class="editButton">
+                                <img src="/icons/edit.png" alt="" srcset="">
+                            </button>
+                            <button type="button" class="editButton">
+                                <img src="/icons/close.png" alt="" srcset="">
+                            </button>
+                        </div>
+                    </form>
+                </div> -->
+            </div>
+        </div>
+    </section>
+    <script src="app.js"></script>
+</body>
+
+</html>
