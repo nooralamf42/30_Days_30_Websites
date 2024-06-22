@@ -20,8 +20,9 @@ Each day brings a new and exciting website. Here’s a glimpse of what I’ve cr
 9. **Day 9:** [RockPaper Scissors Game](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-9-ProfLinks)
 10. **Day 10:** [Sticky Notes App](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-10-StickyNotes)
 11. **Day 11:** [Todo App](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-11-TodoApp)
+12. **Day 12:** [QR Generator](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-12-QRGenerator)
 
-…and 19 more to go! 🚀
+…and 18 more to go! 🚀
 
 ## 🎥 Watch on Instagram Reels
 
@@ -60,6 +61,7 @@ Stay updated with my daily progress:
 - [Day 9](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-9-ProfLinks)
 - [Day 10](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-10-StickyNotes)
 - [Day 11](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-11-TodoApp)
+- [Day 12](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-12-QRGenerator)
 
 
 ## 📚 Resources
