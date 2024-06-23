@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
+    background-color: black;
+    color: white
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}
+
+.card{
+    text-align: center;
+    max-width: 400px;
+    padding: 30px;
+    border-radius: 2rem;
+    width: 90%;
+    border: 1px solid rgba(128, 128, 128, 0.663);
+}
+
+
+.card h1{
+    margin-bottom: 2rem;
+}
+
+.card input, button{
+    border: 0.5px solid rgba(128, 128, 128, 0.523);
+    padding: 8px 12px;
+    border-radius: 0.5rem;
+    font-size: 1.5rem;
+    margin: 5px;
+}
+
+button{
+    cursor: pointer;
+}
+
+#result{
+    margin-top: 2rem;
+}
+
+.year{
+    font-size: 1.8rem;
+    font-weight: 900;
+}

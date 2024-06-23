@@ -21,8 +21,9 @@ Each day brings a new and exciting website. Here’s a glimpse of what I’ve cr
 10. **Day 10:** [Sticky Notes App](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-10-StickyNotes)
 11. **Day 11:** [Todo App](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-11-TodoApp)
 12. **Day 12:** [QR Generator](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-12-QRGenerator)
+13. **Day 13:** [QR Generator](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-13-AgeCalculator)
 
-…and 18 more to go! 🚀
+…and 17 more to go! 🚀
 
 ## 🎥 Watch on Instagram Reels
 
@@ -62,6 +63,7 @@ Stay updated with my daily progress:
 - [Day 10](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-10-StickyNotes)
 - [Day 11](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-11-TodoApp)
 - [Day 12](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-12-QRGenerator)
+- [Day 13](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-13-AgeCalculator)
 
 
 ## 📚 Resources
