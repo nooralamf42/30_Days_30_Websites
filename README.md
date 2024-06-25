@@ -23,8 +23,9 @@ Each day brings a new and exciting website. Here’s a glimpse of what I’ve cr
 12. **Day 12:** [QR Generator](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-12-QRGenerator)
 13. **Day 13:** [QR Generator](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-13-AgeCalculator)
 14. **Day 14:** [QR Generator](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-14-MemeGenerator)
+15. **Day 15:** [Password Generator](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-15-PasswordGenerator)
 
-…and 17 more to go! 🚀
+…and 15 more to go! 🚀
 
 ## 🎥 Watch on Instagram Reels
 
@@ -66,6 +67,7 @@ Stay updated with my daily progress:
 - [Day 12](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-12-QRGenerator)
 - [Day 13](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-13-AgeCalculator)
 - [Day 14](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-14-MemeGenerator)
+- [Day 15](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-15-PasswordGenerator)
 
 
 ## 📚 Resources

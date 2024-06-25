@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
+}
+
+.card{
+    width: 90%;
+    max-width: 400px;
+    padding: 50px 30px;
+    border-radius: 1.4rem;
+    border: 1px solid rgba(128, 128, 128, 0.483);
+}
+
+.card form{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+#submitBtn{
+    width: 100%;
+}
+
+#passwordText{
+    width: 100%;
+    padding: 5px 12px;
+    border-radius: 0.5rem;
+    border: 1px solid rgba(128, 128, 128, 0.483);
+}
+
+input, label{
+    font-size: 1.2rem;
+}
+
+#copyBtn{
+    position: absolute;
+    top: 20%;
+    right: 0.5rem;
+    border-radius: 0.5rem;
+    padding: 0.1rem 0.5rem;
+    border: 1px solid rgba(128, 128, 128, 0.483);
+}
+
+.passwordDiv{
+    position: relative;
+}
+
+button{
+    cursor: pointer;
+}
+
+#submitBtn{
+    font-size: 1.8rem;
+    border-radius: 0.5rem;
+    padding: 0.1rem;
+    border: 1px solid rgba(128, 128, 128, 0.483);
+}
+
+form p{
+    font-size: 1.3rem;
+    text-align: center;
+}
+
+.card h1{
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 2rem;
+}
