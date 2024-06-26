@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+*{
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    display:flex;
+    justify-content: center;
+    padding: 0 30px;
+}
+
+.card{
+    width: 100%;
+    margin-top: 150px;
+    max-width: 550px;
+    border: 1px solid rgba(128, 128, 128, 0.414);
+    border-radius: 2rem;
+    padding: 50px 30px;
+}
+
+#question{
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+#loader{
+    font-size: 2rem;
+    margin-top: 300px;
+    text-align: center;
+}
+
+.card label{
+    font-size: 1.5rem;
+}
+
+.option{
+    padding: 0 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#error, #loader{
+    margin-top: 150px;
+    font-size: 2rem;
+}
+
+#error{
+    font-weight: bold;
+    color: rgb(255, 56, 56);
+}
+
+.hidden{
+    display: none;
+}

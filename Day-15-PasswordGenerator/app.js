@@ -16,7 +16,7 @@ const alphabetsUpperCase = 'ABCDEFGHIJKLMNOPQRUVWXYZ'
 const number = '01234567989'
 const specialChars = '!@#$%^&*()_+='
 
-let password = ''
+let password = 'NEW PASS WORD FOR NOW HELL OWORLD WHREA RE YOU MY LOVE '
 
 handleRange()
 
@@ -46,6 +46,8 @@ function randomPassword(lenght){
         const randomIndex = Math.floor(Math.random()*passwordString.length)
         console.log(passwordString)
         password = password + passwordString[randomIndex] 
+        console.log('hjello')
+        console.logehllo 
      }
 }
 
