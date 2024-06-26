@@ -24,8 +24,9 @@ Each day brings a new and exciting website. Here’s a glimpse of what I’ve cr
 13. **Day 13:** [Age Calculator](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-13-AgeCalculator)
 14. **Day 14:** [Meme Generator](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-14-MemeGenerator)
 15. **Day 15:** [Password Generator](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-15-PasswordGenerator)
+16. **Day 16:** [Quiz Game](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-15-QuizGame)
 
-…and 15 more to go! 🚀
+…and 14 more to go! 🚀
 
 ## 🎥 Watch on Instagram Reels
 
@@ -68,6 +69,7 @@ Stay updated with my daily progress:
 - [Day 13](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-13-AgeCalculator)
 - [Day 14](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-14-MemeGenerator)
 - [Day 15](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-15-PasswordGenerator)
+- [Day 16](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-16-QuizGame)
 
 
 ## 📚 Resources

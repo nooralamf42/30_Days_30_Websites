@@ -46,8 +46,6 @@ function randomPassword(lenght){
         const randomIndex = Math.floor(Math.random()*passwordString.length)
         console.log(passwordString)
         password = password + passwordString[randomIndex] 
-        console.log('hjello')
-        console.logehllo 
      }
 }
 
