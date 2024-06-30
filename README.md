@@ -27,8 +27,9 @@ Each day brings a new and exciting website. Here’s a glimpse of what I’ve cr
 16. **Day 16:** [Quiz Game](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-16-QuizGame)
 17. **Day 17:** [Digital Clock](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-17-DigitalClock)
 18. **Day 18:** [Digital Clock](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-18-NumberGuessingGame)
+19. **Day 19:** [Digital Clock](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-19-ScreenFlashLight)
 
-…and 12 more to go! 🚀
+…and 11 more to go! 🚀
 
 ## 🎥 Watch on Instagram Reels
 
@@ -74,6 +75,7 @@ Stay updated with my daily progress:
 - [Day 16](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-16-QuizGame)
 - [Day 17](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-17-DigitalClock)
 - [Day 18](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-18-NumberGuessingGame)
+- [Day 19](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-19-ScreenFlashLight)
 
 
 
