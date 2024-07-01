@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MoviePedia</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section id="heroSection">
+        <h1>MoviePedia</h1>
+        <p>A place to search your favourite movies</p>
+        <form onsubmit="searchMovie(event)">
+            <input type="text" required id="userInput">
+            <button>Search</button>
+        </form>
+    </section>
+    <h1 id="loader" class="hidden">Loading...</h1>
+    <h1 id="error" class="hidden"></h1>
+    <section id="detailsSection"  class="hidden detailsSection">
+       
+    </section>
+
+    <section class="queryMovies" id="queryMovies">
+        
+    </section>
+    <script src="app.js"></script>
+</body>
+</html>
