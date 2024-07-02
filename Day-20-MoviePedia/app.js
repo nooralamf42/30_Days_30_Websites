@@ -49,6 +49,7 @@ function generateMovieCard(data) {
     }
 
     else{
+      queryMoviesParent.innerHTML = ''
         data.Search.map((movie) => {
             if (movie.Poster == "N/A") {
               movie.Poster =
