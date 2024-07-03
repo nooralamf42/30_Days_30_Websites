@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Margarine&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    color: black;
+    background-image: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* padding-top: 150px; */
+    text-align: center;
+}
+
+.countdown{
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+    background-color: white;
+    border-radius: 2rem;
+    padding: 2rem;
+    /* border: 0.5px solid gray; */
+    max-width: 550px;
+    width: 90%;
+}
+
+.hidden{
+    display: none;
+}
+
+footer{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 0.5rem;
+    font-size: 1.8rem;
+    letter-spacing: 2px;
+}
+
+p{
+    margin-top: 2rem;
+    font-family: "Margarine", sans-serif;
+    font-weight: 400;
+    font-style: normal;  
+    font-size: 2rem;
+     color: rgb(49, 49, 49);
+}
+
+h1{
+    font-size: 4rem;
+ font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}

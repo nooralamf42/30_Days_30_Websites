@@ -29,8 +29,9 @@ Each day brings a new and exciting website. Here’s a glimpse of what I’ve cr
 18. **Day 18:** [Number Guessing Game](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-18-NumberGuessingGame)
 19. **Day 19:** [Screen Flash Light](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-19-ScreenFlashLight)
 20. **Day 20:** [MoviePedia - Movie Search Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-20-MoviePedia)
+21. **Day 21:** [MoviePedia - Movie Search Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-21-Calculator)
 
-…and 10 more to go! 🚀
+…and 9 more to go! 🚀
 
 ## 🎥 Watch on Instagram Reels
 
@@ -78,6 +79,7 @@ Stay updated with my daily progress:
 - [Day 18](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-18-NumberGuessingGame)
 - [Day 19](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-19-ScreenFlashLight)
 - [Day 20](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-20-MoviePedia)
+- [Day 21](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-21-Calculator)
 
 
 
