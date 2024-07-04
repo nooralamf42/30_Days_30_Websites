@@ -25,9 +25,6 @@ function generateTodos(){
     todosDiv.innerHTML = ''
     localStorage.setItem('todos', JSON.stringify(todos))
     todos.map((todo, index) =>{
-
-
-
         let currentTodo = 
             `<div class="todo">
                 <form id="form${index}" class="editForm" onsubmit="editFormTodo(event)">

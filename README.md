@@ -30,8 +30,9 @@ Each day brings a new and exciting website. Here’s a glimpse of what I’ve cr
 19. **Day 19:** [Screen Flash Light](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-19-ScreenFlashLight)
 20. **Day 20:** [MoviePedia - Movie Search Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-20-MoviePedia)
 21. **Day 21:** [MoviePedia - Movie Search Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-21-Calculator)
+22. **Day 22:** [MoviePedia - Movie Search Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-22-YearCountDown)
 
-…and 9 more to go! 🚀
+…and 8 more to go! 🚀
 
 ## 🎥 Watch on Instagram Reels
 
@@ -80,6 +81,7 @@ Stay updated with my daily progress:
 - [Day 19](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-19-ScreenFlashLight)
 - [Day 20](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-20-MoviePedia)
 - [Day 21](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-21-Calculator)
+- [Day 22](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-22-YearCountDown)
 
 
 
