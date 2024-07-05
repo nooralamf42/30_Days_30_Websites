@@ -1,0 +1,224 @@
+@import url('https://fonts.googleapis.com/css2?family=Margarine&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+
+.main{
+    padding: 150px 1.5rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+form{
+    margin-bottom: 3rem;
+    width: 90%;
+    max-width: 550px;
+    text-align: center;
+}
+
+form input, button{
+    padding: 0.5rem 1.6rem;
+    font-size: 1.2rem;
+    width: 90%;
+    text-align: center;
+    border-radius: 0.6rem;
+    border: 0.5px solid rgba(128, 128, 128, 0.411);
+}
+
+form input{
+    margin-bottom: 0.5rem;
+}
+
+form button{
+    cursor: pointer;
+    font-size: 1.4rem;
+    color: white;
+    font-weight: 600;
+    background-color: black;
+}
+
+form button:hover{
+    background: rgba(0, 0, 0, 0.679);
+}
+
+.card{
+    display: none;
+    max-width: 550px;
+    width: 90%;
+    border-radius: 2rem;
+    overflow: hidden;
+    border: 0.5px solid gray;
+    box-shadow: rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
+}
+
+h2{
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+
+.card img{
+    width: 120px;
+    border-radius: 20%;
+    box-shadow: rgba(240, 46, 170, 0.4) 0px 5px, rgba(240, 46, 170, 0.3) 0px 10px, rgba(240, 46, 170, 0.2) 0px 15px, rgba(240, 46, 170, 0.1) 0px 20px, rgba(240, 46, 170, 0.05) 0px 25px;
+}
+
+.card-top{
+    padding: 2rem 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.6rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-bottom{
+    padding: 1rem;
+}
+
+.card-top h2:nth-child(1){
+  font-weight: 600;
+  font-size: 1.4rem;
+}
+
+.card-top h2:nth-child(2){
+  font-style: italic;
+}
+
+.card-top h2:nth-child(3), h2:nth-child(4){
+  font-style: italic;
+}
+
+.card h1{
+    font-family: "Margarine", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#notFound{
+    width: 300px;
+    border-radius: 2rem;
+}
+
+#errorMessage{
+  text-align: center;
+  font-weight: 500;
+  color: rgb(255, 57, 57);
+}
+
+
+#loader, .notFound{
+    display: none;
+}
+
+/* loader */
+
+
+.lds-roller,
+.lds-roller div,
+.lds-roller div:after {
+  box-sizing: border-box;
+}
+.lds-roller {
+  display: inline-block;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.lds-roller div {
+  animation: lds-roller 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+  transform-origin: 40px 40px;
+}
+.lds-roller div:after {
+  content: " ";
+  display: block;
+  position: absolute;
+  width: 7.2px;
+  height: 7.2px;
+  border-radius: 50%;
+  background: currentColor;
+  margin: -3.6px 0 0 -3.6px;
+}
+.lds-roller div:nth-child(1) {
+  animation-delay: -0.036s;
+}
+.lds-roller div:nth-child(1):after {
+  top: 62.62742px;
+  left: 62.62742px;
+}
+.lds-roller div:nth-child(2) {
+  animation-delay: -0.072s;
+}
+.lds-roller div:nth-child(2):after {
+  top: 67.71281px;
+  left: 56px;
+}
+.lds-roller div:nth-child(3) {
+  animation-delay: -0.108s;
+}
+.lds-roller div:nth-child(3):after {
+  top: 70.90963px;
+  left: 48.28221px;
+}
+.lds-roller div:nth-child(4) {
+  animation-delay: -0.144s;
+}
+.lds-roller div:nth-child(4):after {
+  top: 72px;
+  left: 40px;
+}
+.lds-roller div:nth-child(5) {
+  animation-delay: -0.18s;
+}
+.lds-roller div:nth-child(5):after {
+  top: 70.90963px;
+  left: 31.71779px;
+}
+.lds-roller div:nth-child(6) {
+  animation-delay: -0.216s;
+}
+.lds-roller div:nth-child(6):after {
+  top: 67.71281px;
+  left: 24px;
+}
+.lds-roller div:nth-child(7) {
+  animation-delay: -0.252s;
+}
+.lds-roller div:nth-child(7):after {
+  top: 62.62742px;
+  left: 17.37258px;
+}
+.lds-roller div:nth-child(8) {
+  animation-delay: -0.288s;
+}
+.lds-roller div:nth-child(8):after {
+  top: 56px;
+  left: 12.28719px;
+}
+@keyframes lds-roller {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+

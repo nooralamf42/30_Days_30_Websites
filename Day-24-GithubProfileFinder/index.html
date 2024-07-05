@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Github Profile Finder</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section class="main">
+        <form onsubmit="searchProfile(event)">
+            <input id="userInput" type="text" required placeholder="input username">
+            <button type="submit">Search</button>
+        </form>
+        <h1 id="errorMessage"></h1>
+        <img class="notFound" src="https://media1.tenor.com/m/Z4H2w7dmSGgAAAAC/error-april-fool.gif" alt="" srcset="" id="notFound">
+
+        <div id="loader" class="lds-roller"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
+
+        <div class="card">
+    
+            
+        </div>
+    </section>
+    <script src="app.js"></script>
+</body>
+</html>
