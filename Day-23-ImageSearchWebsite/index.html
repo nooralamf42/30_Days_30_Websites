@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Search Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section class="main">
+        <div class="inputDiv">
+            <form onsubmit="searchImage(event)">
+                <input type="text" required placeholder="image name here" id="userInput">
+                <button type="submit">Search</button>
+            </form>
+        </div>
+        <h1 id="loader" class="hidden">Loading...</h1>
+        <h1 id="error" class="hidden"></h1>
+        <div class="cards" id="cards">
+            
+        </div>
+    </section>
+    <script src="app.js"></script>
+</body>
+</html>
