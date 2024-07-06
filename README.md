@@ -32,9 +32,10 @@ Each day brings a new and exciting website. Here’s a glimpse of what I’ve cr
 21. **Day 21:** [MoviePedia - Movie Search Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-21-Calculator)
 22. **Day 22:** [MoviePedia - Movie Search Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-22-YearCountDown)
 23. **Day 23:** [MoviePedia - Movie Search Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-23-ImageSearchWebsite)
-24. **Day 24:** [MoviePedia - Movie Search Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-4-GithubProfileFinder)
+24. **Day 24:** [MoviePedia - Movie Search Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-24-GithubProfileFinder)
+25. **Day 25:** [MoviePedia - Movie Search Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-25-CurrencyConvertor)
 
-…and 6 more to go! 🚀
+…and 5 more to go! 🚀
 
 ## 🎥 Watch on Instagram Reels
 
@@ -86,6 +87,7 @@ Stay updated with my daily progress:
 - [Day 22](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-22-YearCountDown)
 - [Day 23](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-23-ImageSearchWebsite)
 - [Day 24](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-24-GithubProfileFinder)
+- [Day 25](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-25-CurrencyConvertor)
 
 
 

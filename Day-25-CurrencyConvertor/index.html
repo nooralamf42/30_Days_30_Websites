@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currency Convertor</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section class="main">
+        <form class="card" id="form">
+            <div>
+                <input type="number" id="fromCurrency" required placeholder="from currency">
+                <select name="" id="fromSelected" class="currencyOptions1">
+                </select>
+            </div>
+            <pre class="center">
+                <img src="swap.png" id="swapButton" alt="" srcset="">
+            </pre>
+            <div>
+                <input type="text" disabled required id="toCurrency" placeholder="to currency">
+                <select name="" id="toSelected" class="currencyOptions2">
+                    
+                </select>
+            </div>
+            <button type="submit">Convert</button>
+        </form>
+    </section>
+    <script type="module" src="app.js"></script>
+</body>
+</html>
