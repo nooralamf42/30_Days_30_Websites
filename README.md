@@ -1,9 +1,14 @@
+Certainly! Here's the completed response with YouTube added to the top links:
+
+---
+
 # 🚀 30 Websites in 30 Days Challenge
 
 Welcome to my 30 Websites in 30 Days challenge! 🎉 I'm creating and sharing a new website every day for 30 days, pushing my limits, and expanding my web development skills. Follow my journey on Instagram and explore each project in this repository.
 
 [![Instagram Follow](https://img.shields.io/badge/Follow%20%40nooralamfiroz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nooralamfiroz)
 [![LinkedIn Follow](https://img.shields.io/badge/Follow%20%40noor--alam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noor-alam-725639265/)
+[![YouTube Subscribe](https://img.shields.io/badge/Subscribe%20to%20WebDevDost-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@webdevdost)
 
 ## 🌟 Projects Overview
 
@@ -29,13 +34,14 @@ Each day brings a new and exciting website. Here’s a glimpse of what I’ve cr
 18. **Day 18:** [Number Guessing Game](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-18-NumberGuessingGame)
 19. **Day 19:** [Screen Flash Light](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-19-ScreenFlashLight)
 20. **Day 20:** [MoviePedia - Movie Search Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-20-MoviePedia)
-21. **Day 21:** [MoviePedia - Movie Search Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-21-Calculator)
-22. **Day 22:** [MoviePedia - Movie Search Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-22-YearCountDown)
-23. **Day 23:** [MoviePedia - Movie Search Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-23-ImageSearchWebsite)
-24. **Day 24:** [MoviePedia - Movie Search Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-24-GithubProfileFinder)
-25. **Day 25:** [MoviePedia - Movie Search Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-25-CurrencyConvertor)
+21. **Day 21:** [Calculator](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-21-Calculator)
+22. **Day 22:** [Year Countdown](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-22-YearCountDown)
+23. **Day 23:** [Image Search Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-23-ImageSearchWebsite)
+24. **Day 24:** [GitHub Profile Finder](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-24-GithubProfileFinder)
+25. **Day 25:** [Currency Converter](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-25-CurrencyConvertor)
+26. **Day 26:** [Image Resizer and Compressor](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-26-ImageResizerAndCompressor)
 
-…and 5 more to go! 🚀
+…and 4 more to go! 🚀
 
 ## 🎥 Watch on Instagram Reels
 
@@ -43,9 +49,15 @@ I'm documenting the entire process on Instagram. Catch behind-the-scenes clips, 
 
 👉 [Follow @nooralamfiroz on Instagram](https://instagram.com/nooralamfiroz)
 
+## 📺 Full Coding Videos on YouTube
+
+I upload full step-by-step coding videos of all these projects on my YouTube channel:
+
+👉 [Subscribe to WebDevDost on YouTube](https://www.youtube.com/@webdevdost)
+
 ## 💻 Technologies Used
 
-Throughout this challenge, I’ll be using a variety of technologies, including but not limited to:
+Throughout this challenge, I’m using a variety of technologies, including but not limited to:
 
 - HTML5 & CSS3
 - JavaScript (ES6+)
@@ -76,7 +88,9 @@ Stay updated with my daily progress:
 - [Day 11](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-11-TodoApp)
 - [Day 12](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-12-QRGenerator)
 - [Day 13](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-13-AgeCalculator)
-- [Day 14](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-14-MemeGenerator)
+- [Day 14](https://github.com/nooralamf42/30_Days_30
+
+_Websites/tree/main/Day-14-MemeGenerator)
 - [Day 15](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-15-PasswordGenerator)
 - [Day 16](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-16-QuizGame)
 - [Day 17](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-17-DigitalClock)
@@ -88,29 +102,6 @@ Stay updated with my daily progress:
 - [Day 23](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-23-ImageSearchWebsite)
 - [Day 24](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-24-GithubProfileFinder)
 - [Day 25](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-25-CurrencyConvertor)
+- [Day 26](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-26-ImageResizerAndCompressor)
 
-
-
-
-## 📚 Resources
-
-Check out some of the resources and tools I’m using:
-
-- [MDN Web Docs](https://developer.mozilla.org/)
-- [W3Schools](https://www.w3schools.com/)
-- [FreeCodeCamp](https://www.freecodecamp.org/)
-
-## ✨ Inspiration
-
-This challenge is inspired by the need to constantly learn and improve. I hope it motivates you to start your own projects and take on new challenges!
-
-## 📧 Contact
-
-For any queries, reach out to me on [Instagram](https://instagram.com/nooralamfiroz) or via email at nooralalmf42@gmail.com.
-
----
-
-Let’s connect and grow together! 🌟
-
-[![Instagram Follow](https://img.shields.io/badge/Follow%20%40nooralamfiroz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nooralamfiroz)
-[![LinkedIn Follow](https://img.shields.io/badge/Follow%20%40noor--alam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noor-alam-725639265/)
+Let's code together! 🚀
