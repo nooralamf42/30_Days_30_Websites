@@ -40,8 +40,9 @@ Each day brings a new and exciting website. Here’s a glimpse of what I’ve cr
 24. **Day 24:** [GitHub Profile Finder](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-24-GithubProfileFinder)
 25. **Day 25:** [Currency Converter](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-25-CurrencyConvertor)
 26. **Day 26:** [Image Resizer and Compressor](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-26-ImageResizerAndCompressor)
+27. **Day 27:** [Stopwatch WebApp](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-27-Stopwatch)
 
-…and 4 more to go! 🚀
+…and 3 more to go! 🚀
 
 ## 🎥 Watch on Instagram Reels
 
@@ -88,9 +89,7 @@ Stay updated with my daily progress:
 - [Day 11](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-11-TodoApp)
 - [Day 12](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-12-QRGenerator)
 - [Day 13](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-13-AgeCalculator)
-- [Day 14](https://github.com/nooralamf42/30_Days_30
-
-_Websites/tree/main/Day-14-MemeGenerator)
+- [Day 14](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-14-MemeGenerator)
 - [Day 15](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-15-PasswordGenerator)
 - [Day 16](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-16-QuizGame)
 - [Day 17](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-17-DigitalClock)
@@ -103,5 +102,6 @@ _Websites/tree/main/Day-14-MemeGenerator)
 - [Day 24](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-24-GithubProfileFinder)
 - [Day 25](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-25-CurrencyConvertor)
 - [Day 26](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-26-ImageResizerAndCompressor)
+- [Day 27](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-27-Stopwatch)
 
 Let's code together! 🚀
