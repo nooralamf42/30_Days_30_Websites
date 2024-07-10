@@ -41,8 +41,9 @@ Each day brings a new and exciting website. Here’s a glimpse of what I’ve cr
 25. **Day 25:** [Currency Converter](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-25-CurrencyConvertor)
 26. **Day 26:** [Image Resizer and Compressor](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-26-ImageResizerAndCompressor)
 27. **Day 27:** [Stopwatch WebApp](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-27-Stopwatch)
+28. **Day 28:** [Birthday Wishing Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-28-BirthdayWishingWebsite)
 
-…and 3 more to go! 🚀
+…and 2 more to go! 🚀
 
 ## 🎥 Watch on Instagram Reels
 
@@ -103,5 +104,6 @@ Stay updated with my daily progress:
 - [Day 25](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-25-CurrencyConvertor)
 - [Day 26](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-26-ImageResizerAndCompressor)
 - [Day 27](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-27-Stopwatch)
+- [Day 28](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-28-BirthdayWishingWebsite)
 
 Let's code together! 🚀
