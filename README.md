@@ -42,8 +42,9 @@ Each day brings a new and exciting website. Here’s a glimpse of what I’ve cr
 26. **Day 26:** [Image Resizer and Compressor](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-26-ImageResizerAndCompressor)
 27. **Day 27:** [Stopwatch WebApp](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-27-Stopwatch)
 28. **Day 28:** [Birthday Wishing Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-28-BirthdayWishingWebsite)
+29. **Day 29:** [Birthday Wishing Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-29-JokesWebsite)
 
-…and 2 more to go! 🚀
+…and 1 more to go! 🚀
 
 ## 🎥 Watch on Instagram Reels
 
@@ -105,5 +106,6 @@ Stay updated with my daily progress:
 - [Day 26](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-26-ImageResizerAndCompressor)
 - [Day 27](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-27-Stopwatch)
 - [Day 28](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-28-BirthdayWishingWebsite)
+- [Day 29](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-29-JokesWebsite)
 
 Let's code together! 🚀

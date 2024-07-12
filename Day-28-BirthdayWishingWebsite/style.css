@@ -2,6 +2,7 @@
 
 body {
     display: flex;
+    padding: 0 2rem;
     justify-content: center;
     align-items: center;
     height: 100vh;
@@ -21,7 +22,8 @@ body {
 
 .card {
     position: relative;
-    width: 300px;
+    max-width: 300px;
+    width: 90%;
     height: 400px;
     perspective: 1000px;
 }
@@ -116,6 +118,7 @@ body {
     position: absolute;
     bottom: 0;
     right: 0;
+    z-index: 12;
     margin: 4rem;
     cursor: pointer;
 }
