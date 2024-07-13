@@ -116,6 +116,7 @@ function checkCollison() {
 
 function gameOver() {
     gameSpeed = 200  //forgot to reset gamespeed 
+    score = 0 //forgot to reset score
   clearInterval(gameInterval);
   setTimeout(() => {
     snake = [{ x: 15, y: 11 }];
