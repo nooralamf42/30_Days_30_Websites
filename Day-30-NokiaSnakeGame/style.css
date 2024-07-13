@@ -1,0 +1,229 @@
+/* IMAGES */
+.messages {
+	background-image: url(https://vignette.wikia.nocookie.net/khangnd/images/3/3d/Nokia-messages.png);
+}
+.contacts {
+	background-image: url(https://vignette.wikia.nocookie.net/khangnd/images/8/8c/Nokia-contacts.png);
+}
+.settings {
+	background-image: url(https://vignette.wikia.nocookie.net/khangnd/images/6/67/Nokia-settings.png);
+}
+.tones {
+	background-image: url(https://vignette.wikia.nocookie.net/khangnd/images/1/1b/Nokia-tones.png);
+}
+.extras {
+	background-image: url(https://vignette.wikia.nocookie.net/khangnd/images/4/45/Nokia-extras.png);
+}
+
+/* MAIN */
+body {
+	font-family: sans-serif;
+    display: flex;
+    height: 100vh;
+    align-items: center;
+}
+#nokia {
+	margin: auto;
+	width: 262px;
+	height: 610px;
+	position: relative;
+	background: url(https://raw.githubusercontent.com/khang-nd/public-assets/main/Nokia1100.png)
+		no-repeat;
+	background-size: contain;
+}
+portion {
+	position: absolute;
+	left: 50%;
+	transform: translateX(-51%);
+}
+#screen {
+	top: 145px;
+	width: 182px;
+	height: 135px;
+	background: #777;
+	border-radius: 5% / 50%;
+	box-shadow: inset -3px 3px 3px rgba(0, 0, 0, 0.15);
+	box-sizing: border-box;
+	padding: 12px 6.3px;
+}
+
+#container > section {
+	display: none;
+	height: 100%;
+	flex-direction: column;
+	justify-content: space-between;
+	overflow: auto;
+	position: relative;
+	box-sizing: border-box;
+}
+#keypad {
+	top: 305px;
+	width: 200px;
+	height: 90px;
+	display: grid;
+	grid-template-columns: auto auto auto;
+}
+#numpad {
+	top: 400px;
+	width: 200px;
+	height: 170px;
+	display: grid;
+	grid-template-columns: auto auto auto;
+}
+#key-nav {
+	grid-row-end: span 2;
+}
+.key {
+	cursor: pointer;
+}
+.main {
+	height: 100%;
+	overflow: auto;
+	display: flex;
+}
+input[readonly] {
+	width: 100%;
+	background: none;
+	border: 0;
+	font-size: 150%;
+	box-sizing: border-box;
+}
+input[readonly]:focus {
+	outline: none;
+}
+.step {
+	width: 3px;
+	height: calc(14.2% - 2px - 0.5px);
+	margin: 1px;
+	background: rgba(0, 0, 0, 0.2);
+}
+#battery > .step,
+#battery:after {
+	margin-left: auto;
+}
+#call {
+	word-break: break-all;
+	font-size: 130%;
+}
+#signal:after,
+#battery:after {
+	content: "";
+	display: block;
+	width: 8px;
+	height: 10px;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+#signal:after {
+	background-image: url(https://vignette.wikia.nocookie.net/khangnd/images/b/b6/Nokia-signal.PNG);
+}
+#battery:after {
+	background-image: url(https://vignette.wikia.nocookie.net/khangnd/images/8/82/Nokia-battery.PNG);
+}
+
+.header {
+	display: flex;
+	align-items: center;
+	text-align: center;
+	width: 100%;
+	font-size: 75%;
+	font-weight: normal;
+}
+.header:before,
+.header:after {
+	content: "";
+	display: block;
+	width: 100%;
+	height: 2px;
+	background: currentColor;
+	margin: 0 3px;
+}
+
+#menu {
+	display: block;
+	text-align: center;
+	font-size: 130%;
+	background-size: 50%;
+	background-position: center bottom;
+	background-repeat: no-repeat;
+}
+.scrollbar {
+	position: absolute;
+	width: 2px;
+	height: calc(100% - 30px);
+	background: currentColor;
+	right: 0;
+	top: 0;
+	margin: 15px 2px 15px 0;
+}
+.scrollbar > .handle {
+	position: absolute;
+	left: -2px;
+	width: 4px;
+	border: 1px solid;
+	border-radius: 4px;
+	background: #899776;
+}
+
+/* UTILITIES */
+.text-center {
+	text-align: center;
+	width: 100%;
+}
+.text-right {
+	text-align: right;
+	width: 100%;
+}
+.text-small {
+	font-size: 75%;
+}
+.mb-m20 {
+	margin-bottom: -20px;
+}
+
+
+/* game css begins from here */
+
+#container {
+    border: 1px solid gray;
+	width: 100%;
+	height: 100%;
+    display: grid;
+    grid-template-columns: repeat(30, 5.3px);
+    grid-template-rows: repeat(21, 5.3px);
+	font-weight: bold;
+	font-size: 115%;
+}
+
+.snake{
+    width: 5.3px;
+    height: 5.3;
+    background-color: #899776;
+}
+
+.food{
+    width: 5.3px;
+    height: 5.3;
+    background-color: #0dc400;
+}
+
+#message{
+    font-size: 0.6rem;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.scores{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    display: flex;
+    padding: 0 12px;
+    padding-right: 20px;
+    justify-content: space-between;
+    font-size: 0.5rem;
+}
