@@ -43,7 +43,7 @@ Each day brings a new and exciting website. Here’s a glimpse of what I’ve cr
 27. **Day 27:** [Stopwatch WebApp](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-27-Stopwatch)
 28. **Day 28:** [Birthday Wishing Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-28-BirthdayWishingWebsite)
 29. **Day 29:** [Birthday Wishing Website](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-29-JokesWebsite)
-30. **Day 29:** [Nokia Snake Game](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-30-NokiaSnakeGame)
+30. **Day 30:** [Nokia Snake Game](https://github.com/nooralamf42/30_Days_30_Websites/tree/main/Day-30-NokiaSnakeGame)
 
 
 ## 🎥 Watch on Instagram Reels
